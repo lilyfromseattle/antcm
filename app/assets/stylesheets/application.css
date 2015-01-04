@@ -99,7 +99,7 @@
  .my-button {
    background: whitesmoke;
    padding: 10px;
-   border-radius: 15px;
+   border-radius: 20px;
    color: dimgrey;
    margin-right: 10px;
  }
@@ -107,7 +107,7 @@
  .my-button:hover {
    text-decoration: none;
    color: black;
-   background: #A4DE04;
+   background: hotpink;
  }
 
  #rotate-thumb {
