@@ -54,7 +54,7 @@
   margin-top: 80px;
 }
  .cat-name {
-   font-size: 1.5em;
+   font-size: 1.7em;
    color: black;
  }
 
@@ -114,4 +114,5 @@
    -ms-transform: rotate(180deg); /* IE 9 */
    -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
    transform: rotate(180deg);
+   margin-left: 15px;
  }
